@@ -25,13 +25,13 @@
 
 <div class="box-cat">
         <div class="box-container">
-      <a href="Intel Gaming PCs.html"><div class="box">Intel Gaming <br> PCs</a></div>
-      <a href="AMD based PCs.html"><div class="box">AMD Gaming <br> PCs</div></a> 
-      <a href="Gaming PC Bundle.html"><div class="box">Gaming PC <br> Bundles</div></a>
-      <a href="Workstation PCs.html"><div class="box">Workstation <br> PCs</div></a>
-      <a href="Nvidia GeForce PCs.html"><div class="box">Nvidia GeForce <br> PCs</div></a>
-      <a href="AMD Radeon PCs.html"><div class="box">AMD Radeon <br> PCs</div></a>
-      <a href="Custom Home office PCs.html"><div class="box">Custom Home/Office PCs</div></a>
+          <a href="{{route('IntelGamingPCs')}}"><div class="box">Intel Gaming <br> PCs</a></div>
+          <a href="{{route('AMDbasedPCs')}}"><div class="box">AMD Gaming <br> PCs</div></a> 
+          <a href="{{route('GamingPCBundle')}}"><div class="box">Gaming PC <br> Bundles</div></a>
+          <a href="{{route('WorkstationPCs')}}"><div class="box">Workstation <br> PCs</div></a>
+          <a href="{{route('NvidiaGeForcePCs')}}"><div class="box">Nvidia GeForce <br> PCs</div></a>
+          <a href="{{route('AMDRadeonPCs')}}"><div class="box">AMD Radeon <br> PCs</div></a>
+          <a href="{{route('CustomHomeofficePCs')}}"><div class="box">Custom Home/Office PCs</div></a>
       </div> 
     </div> <br>
 

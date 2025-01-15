@@ -8,13 +8,7 @@
 
 <!----------------------------->
 
-  <!-----promo section---->
-<div class="promo-section">
-	<div class="promo-text">On-Sale Laptops</div>
-	<a href="laptops.html" class="promo-button">Shop now</a>
-</div>
-
-<!-------->
+ <br>
 
 <div class="next-text">
 <h1 style="font-size: 40px;"> <strong>Nvidia GeForce PCs</strong></h1>
@@ -24,8 +18,8 @@
 
 <div class="box-cat">
     <div class="box-container">
-  <a href="Nvidia RTX 3000 series.html"><div class="box">Nvidia RTX 3000 Series PCs</a></div>
-  <a href="Nvidia RTX 4000 series Pcs.html"><div class="box">Nvidia RTX 4000 Series PCs</div></a> 
+  <a href="{{route('NvidiaRTX3000series')}}"><div class="box">Nvidia RTX 3000 Series PCs</a></div>
+  <a href="{{route('NvidiaRTX4000seriesPcs')}}"><div class="box">Nvidia RTX 4000 Series PCs</div></a> 
   </div> 
 </div><hr>
 

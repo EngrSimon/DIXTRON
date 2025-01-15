@@ -7,15 +7,16 @@
 
 
 <!----------------------------->
-
 <br>
 	
     <div class="next-text">
-        <h1 style="font-size: 40px;"> <strong>Architecture PCs</strong></h1>
-        <p style="font-size: 15px;">Our Architecture range of PCs are designed, in collaboration with software partners, to provide the optimal experience in Architectural <br>design. Reliable performance in your chosen 3D programs allows faster design and workflows, letting you focus <br>on what matters.</p>
+        <h1 style="font-size: 40px;"> <strong>Music Production PCs</strong></h1>
+        <p style="font-size: 15px;">Create art with our range of Music Production PCs, designed to provide faultless recording, editing and playback in your <br>favourite sound production software. </p>
         </div> 
 
-        
+
+
+
 <!--------------------->
 
 <section id="arrival" class="py-5 bg-light" style="padding: 40px 0; background-color: #f8f9fa;">
@@ -204,6 +205,7 @@
 </section>
 
 
+        
 <!----FOOTER----->
 @include('layout.footer')
 

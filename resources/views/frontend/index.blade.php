@@ -236,42 +236,41 @@
     <h2 class="text-center mt-4 mb-4" style="font-family: Arial, Helvetica, sans-serif; text-align: center;">Brands we work with</h2>
     <div class="row">
         <div class="col-4 col-md-2 mb-2">
-            <a href="asus.html">
                 <div class="brand-logo">
-                    <img src="assets/Brands _ Direct Computers/ggf.png" alt="ASUS" class="img-fluid">
+                  <a href="{{route('asus')}}"><img src="assets/Brands _ Direct Computers/ggf.png" alt="ASUS" class="img-fluid"></a> 
                 </div>
-            </a>
+          
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="Apple.html">
+            <a href="{{route('Apple')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/asd.png" alt="Apple" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="amd.html">
+            <a href="{{route('amd')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/aaaad.png" alt="AMD" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="Canon.html">
+            <a href="{{route('Canon')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/cnnon-logo.png" alt="Canon" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="BE QUIET.html">
+            <a href="{{route('BEQUIET')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/bquiet.png" alt="Be Quiet" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="Corsair.html">
+            <a href="{{route('Corsair')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/corsair-logo.png" alt="Corsair" class="img-fluid">
                 </div>
@@ -279,63 +278,63 @@
         </div>
         <!-- Repeat the structure for the next 6 brands -->
         <div class="col-4 col-md-2 mb-2">
-            <a href="DeepCool.html">
+            <a href="{{route('DeepCool')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/deepcool_4197bf72-7281-449d-87e5-963e0bfd3fb2.png" alt="DeepCool" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="Kingston.html">
+            <a href="{{route('Kingston')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/kingston-logo.png" alt="Kingston" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="HP.html">
+            <a href="{{route('HP')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/hp-logo.png" alt="HP" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="HPE.html">
+            <a href="{{route('HPE')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/hpe-240gb-sata-6g-p05319-001-internal-hdd-drives-613.jpeg" alt="Hewlett Packard Enterprise" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="Marvo.html">
+            <a href="{{route('Marvo')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/marvo.png" alt="Marvo" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="piXL.html">
+            <a href="#">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/pixl.png" alt="Pixl" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="Samsung.html">
+            <a href="{{route('Samsung')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/samsung-logo.png" alt="Samsung" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="TP-Link.html">
+            <a href="{{route('TPLink')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/tp.png" alt="TP-Link" class="img-fluid">
                 </div>
             </a>
         </div>
         <div class="col-4 col-md-2 mb-2">
-            <a href="Western Digital.html">
+            <a href="{{route('WesternDigital')}}">
                 <div class="brand-logo">
                     <img src="assets/Brands _ Direct Computers/westen-digital.png" alt="WD" class="img-fluid">
                 </div>

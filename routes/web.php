@@ -123,6 +123,7 @@ Route::get('/MotherboardBundles', [App\Http\Controllers\frontend\MotherboardBund
 Route::get('/motherboards', [App\Http\Controllers\frontend\motherboardsController::class, 'index'])->name('motherboards');
 Route::get('/MouseAndKeyboard', [App\Http\Controllers\frontend\MouseAndKeyboardController::class, 'index'])->name('MouseAndKeyboard');
 Route::get('/MousePads', [App\Http\Controllers\frontend\MousePadsController::class, 'index'])->name('MousePads');
+Route::get('/MusicProductionPCs', [App\Http\Controllers\frontend\MusicProductionPCsController::class, 'index'])->name('MusicProductionPCs');
 Route::get('/NetworkAdapterModules', [App\Http\Controllers\frontend\NetworkAdapterModulesController::class, 'index'])->name('NetworkAdapterModules');
 Route::get('/NetworkAttachedStorageNAS', [App\Http\Controllers\frontend\NetworkAttachedStorageNASController::class, 'index'])->name('NetworkAttachedStorageNAS');
 Route::get('/networking', [App\Http\Controllers\frontend\networkingController::class, 'index'])->name('networking');

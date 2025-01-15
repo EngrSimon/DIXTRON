@@ -17,12 +17,12 @@
 <div class="box-cat">
         <div class="box-container">
       <a href="{{route('ThreeDmodellingpc')}}"><div class="box">3D Modelling <br> PCs</a></div>
-      <a href="{{route('VideoEditingPCs')}}l"><div class="box">Video editing<br> PCs</div></a> 
-      <a href="{{route('GamingPcs')}}"><div class="box">Photography <br> PCs</div></a>
-      <a href="{{route('GamingPcs')}}"><div class="box">Music production <br> PCs</div></a>
-      <a href="{{route('GamingPcs')}}"><div class="box">Trading<br> PCs</div></a>
-      <a href="{{route('GamingPcs')}}"><div class="box">Architecture <br> PCs</div></a>
-      <a href="{{route('GamingPcs')}}"><div class="box">Game Development <br>PCs</div></a>
+      <a href="{{route('VideoEditingPCs')}}"><div class="box">Video editing<br> PCs</div></a> 
+      <a href="{{route('PhotographyPcs')}}"><div class="box">Photography <br> PCs</div></a>
+      <a href="{{route('MusicProductionPCs')}}"><div class="box">Music production <br> PCs</div></a>
+      <a href="{{route('TradingPCs')}}"><div class="box">Trading<br> PCs</div></a>
+      <a href="{{route('ArchitecturePCs')}}"><div class="box">Architecture <br> PCs</div></a>
+      <a href="{{route('GameDevelopmentPCs')}}"><div class="box">Game Development <br>PCs</div></a>
       </div> 
     </div><hr>
 

@@ -7,14 +7,7 @@
 
 
 <!----------------------------->
-
-  <!-----promo section---->
-<div class="promo-section">
-	<div class="promo-text">On-Sale Laptops</div>
-	<a href="laptops.html" class="promo-button">Shop now</a>
-</div>
-
-<!--------------->
+<br>
 	
     <div class="next-text">
         <h1 style="font-size: 40px;"> <strong>Mouse & Keyboards</strong></h1> <!------------
@@ -23,10 +16,10 @@
 
 <div class="box-cat">
         <div class="box-container">
-      <a href="Mice.html"><div class="box">Mice</a></div>
-      <a href="Keyboards.html"><div class="box">Keyboards</div></a> 
-      <a href="Keyboard & Mouse Kits.html"><div class="box">Keyboard & Mouse Kits</div></a>
-      <a href="Mouse Pads.html"><div class="box">Mouse Pads</div></a>
+      <a href="{{route('Mice')}}"><div class="box">Mice</div></a>
+      <a href="{{route('Keyboards')}}"><div class="box">Keyboards</div></a> 
+      <a href="{{route('MouseAndKeyboardKits')}}"><div class="box">Keyboard & Mouse Kits</div></a>
+      <a href="{{route('MousePads')}}"><div class="box">Mouse Pads</div></a>
       </div> 
     </div><hr>
 

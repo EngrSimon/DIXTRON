@@ -7,14 +7,7 @@
 
 
 <!----------------------------->
-
-  <!-----promo section---->
-<div class="promo-section">
-	<div class="promo-text">On-Sale Laptops</div>
-	<a href="laptops.html" class="promo-button">Shop now</a>
-</div>
-
-<!----------------------->
+<br>
 	
     <div class="next-text">
         <h1 style="font-size: 40px;"> <strong>Antivirus Software</strong></h1> 
@@ -23,169 +16,199 @@
 
 <div class="box-cat">
         <div class="box-container">
-      <a href="Avast Antivirus Software.html"><div class="box">Avast Antivirus Software</a></div>
-      <a href="Norton Antivirus Software.html"><div class="box">Norton Antivirus Software</div></a> 
+      <a href="{{route('AvastAntivirusSoftware')}}"><div class="box">Avast Antivirus Software</a></div>
+      <a href="{{route('NortonAntivirusSoftware')}}"><div class="box">Norton Antivirus Software</div></a> 
     </div><hr>
 
         
-        <!--------->
-                 <div class="center_product_1r3 tab-content">
-                  
-                                <div class="click clearfix">
-                                  <div class="arriv_2 mgt clearfix">
-                                   <div class="col-sm-4">
-                                    <div class="arriv_2m clearfix">
-                                     <div class="arriv_2m1 clearfix">
-                                       <a href="product_detail.html"><img src="assets/Antivirus Software _ Direct Computers/1 (1).jpeg" alt="abc" class="iw"></a>						  </div>
-                                     <div class="arriv_2m2 clearfix">
-                                      <h5 class="text-center mgt">SALE</h5>
-                                     </div>
-                                     <div class="arriv_2m3 clearfix">
-                                      <h4 class="bold mgt font_24 text-center"><a class="col_1" href="product_detail.html">Avast</a></h4> 
-                                      <p>Avast CloudCare Unmanged 1 Year</p> <br> <br> <br> <br> <br> 
-                                      <span class="span_1">
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>						   </span>
-                                      <h5>
-                                      <span style="color: #d01f1f;" class="span_2">£50.99</span>
-                                      <span class="span_3 col_2"> £40.99</span> 
-                                      <span class="span_4 pull-right col_2">Limited Offer!</span>						   </h5>
-                                     </div>
-                                    </div>
-                                   </div>
-        
-                                   <div class="col-sm-4">
-                                    <div class="arriv_2m clearfix">
-                                     <div class="arriv_2m1 clearfix">
-                                       <a href="product_detail.html"><img src="assets/Antivirus Software _ Direct Computers/1 (1).jpg" alt="abc" class="iw"></a>						  </div>
-                                     <div class="arriv_2m2 clearfix">
-                                      <h5 class="text-center mgt">SALE</h5>
-                                     </div>
-                                     <div class="arriv_2m3 clearfix">
-                                       <h4 class="bold mgt font_24 text-center"><a class="col_1" href="product_detail.html">Norton</a></h4>
-                                      <p>Norton 360 Deluxe 2022, Antivirus Software for 5 Devices, 1-year Subscription, Includes Secure VPN, Password Manager and 50GB of Cloud Storage, PC/Mac/iOS/Android, Activation Code by email - ESD</p> 
-                                      <span class="span_1">
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>						   </span>
-                                      <h5>
-                                      <span style="color: #d01f1f;" class="span_2">£39.99</span>
-                                      <span class="span_3 col_2"> £35.99</span> 
-                                      <span class="span_4 pull-right col_2">Limited Offer!</span>						   </h5>
-                                     </div>
-                                    </div>
-                                   </div>
 
-                                   <div class="col-sm-4">
-                                    <div class="arriv_2m clearfix">
-                                     <div class="arriv_2m1 clearfix">
-                                       <a href="product_detail.html"><img src="assets/Antivirus Software _ Direct Computers/1 (2).jpg" alt="abc" class="iw"></a>						  </div>
-                                     <div class="arriv_2m2 clearfix">
-                                      <h5 class="text-center mgt">SALE</h5>
-                                     </div>
-                                     <div class="arriv_2m3 clearfix">
-                                       <h4 class="bold mgt font_24 text-center"><a class="col_1" href="product_detail.html">Norton</a></h4>
-                                      <p> Norton 360 Deluxe 2022, Antivirus Software for 5 Devices, 1-year Subscription, Includes Secure VPN, Password Manager and 50GB of Cloud Storage, PC/Mac/iOS/Android, Retail Boxed</p>  
-                                      <span class="span_1">
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>						   </span>
-                                      <h5>
-                                      <span style="color: #d01f1f;" class="span_2">£39.99</span>
-                                      <span class="span_3 col_2">£35.99</span> 
-                                      <span class="span_4 pull-right col_2">Limited Offer!</span>						   </h5>
-                                     </div>
-                                    </div>
-                                   </div>
-                                 </div>
-                               </div>
-                         </div>
-        
-                 <div class="center_product_1r3 tab-content">
-                                  <div class="arriv_2 mgt clearfix">
-                                   <div class="col-sm-4">
-                                    <div class="arriv_2m clearfix">
-                                     <div class="arriv_2m1 clearfix">
-                                       <a href="product_detail.html"><img src="assets/Antivirus Software _ Direct Computers/1 (3).jpg" alt="abc" class="iw"></a>						  </div>
-                                     <div class="arriv_2m2 clearfix">
-                                      <h5 class="text-center mgt">SALE</h5>
-                                     </div>
-                                     <div class="arriv_2m3 clearfix">
-                                      <h4 class="bold mgt font_24 text-center"><a class="col_1" href="product_detail.html">Norton</a></h4>
-                                      <p>Norton 360 Premium 2022, Antivirus Software for 10 Devices, 1-year Subscription, Includes Secure VPN, Password Manager and 75 GB cloud storage space, PC/Mac/iOS/Android, Activation Code by email - ESD</p>
-                                      <span class="span_1">
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>						   </span>
-                                      <h5>
-                                      <span style="color: #d01f1f;" class="span_2">£49.99</span>
-                                      <span class="span_3 col_2">£47.99</span> 
-                                      <span class="span_4 pull-right col_2">Limited Offer!</span>						   </h5>
-                                     </div>
-                                    </div>
-                                   </div>
-        
-                                   <div class="col-sm-4">
-                                    <div class="arriv_2m clearfix">
-                                     <div class="arriv_2m1 clearfix">
-                                       <a href="product_detail.html"><img src="assets/Antivirus Software _ Direct Computers/1 (3).jpg" alt="abc" class="iw"></a>						  </div>
-                                     <div class="arriv_2m2 clearfix">
-                                      <h5 class="text-center mgt">SALE</h5>
-                                     </div>
-        
-                                     <div class="arriv_2m3 clearfix">
-                                       <h4 class="bold mgt font_24 text-center"><a class="col_1" href="product_detail.html">Norton</a></h4>
-                                      <p>Norton 360 Advanced, Antivirus Software for 10 Devices, 1-year Subscription, Includes Secure VPN, Dark Web Monitoring and Password Manager, 200GB of Cloud Storage, PC/Mac/iOS/Android</p> <br>
-                                      <span class="span_1">
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>						   </span>
-                                      <h5>
-                                      <span style="color: #d01f1f;" class="span_2">£69.99</span>
-                                      <span class="span_3 col_2">£50.99</span> 
-                                      <span class="span_4 pull-right col_2">Limited Offer!</span>						   </h5>
-                                     </div>
-                                    </div>
-                                   </div>
-                                   
-                                   <div class="col-sm-4">
-                                    <div class="arriv_2m clearfix">
-                                     <div class="arriv_2m1 clearfix">
-                                       <a href="product_detail.html"><img src="assets/Antivirus Software _ Direct Computers/1 (4).jpg" alt="abc" class="iw"></a>						  </div>
-                                     <div class="arriv_2m2 clearfix">
-                                      <h5 class="text-center mgt">SALE</h5>
-                                     </div>
-                                     <div class="arriv_2m3 clearfix">
-                                       <h4 class="bold mgt font_24 text-center"><a class="col_1" href="product_detail.html">Norton</a></h4>
-                                      <p>Norton Small Business, Antivirus Software, 6 Devices, 1-year Subscription, Includes 250GB of Cloud Storage, Dark Web Monitoring, Private Browser, 24/7 Business Support, Activation Code by email - ESD</p> 
-                                      <span class="span_1">
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>						   </span>
-                                      <h5>
-                                      <span style="color: #d01f1f;" class="span_2">£58.99</span>
-                                      <span class="span_3 col_2">£51.99</span> 
-                                      <span class="span_4 pull-right col_2">Limited Offer!</span>						   </h5>
-                                     </div>
-                                    </div>
-                                   </div>
-                               
-        
-        
-                         </div>
+                
+<!--------------------->
+
+<section id="arrival" class="py-5 bg-light" style="padding: 40px 0; background-color: #f8f9fa;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto;">
+    <h3 class="text-center mb-5" style="font-family: Arial, Helvetica, sans-serif; text-align: center; margin-bottom: 3rem;"></h3>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
+  
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (2).jpeg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">BUILD YOUR OWN PC -INTEL ATX BUILD with amazing features</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">Ryzen 5 8500G, 16GB DDR5, Radeon 740, 500GB SSD, AMD Gaming PC</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (4).jpeg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+    
+    </div>
+  </div>
+</section>
         
 <!----FOOTER----->
 @include('layout.footer')

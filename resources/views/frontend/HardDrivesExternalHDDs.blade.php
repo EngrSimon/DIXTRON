@@ -7,19 +7,201 @@
 
 
 <!----------------------------->
-
-  <!-----promo section---->
-<div class="promo-section">
-	<div class="promo-text">On-Sale Laptops</div>
-	<a href="laptops.html" class="promo-button">Shop now</a>
-</div>
-
-<!--------------------->
+<br>
    
     <div class="next-text">
         <h1 style="font-size: 40px;"> <strong>Hard Drives - External (HDDs)</strong></h1>
         <p style="font-size: 15px;">Portable External HDDs for On-the-Go Storage - Explore our selection of External Portable Hard Disk Drives (HDDs) <br> designed to provide convenient and reliable storage solutions wherever you go. Whether you need to back up important <br>files, carry your media library, or collaborate on projects away from your desk, our portable HDDs are the perfect choice. <br>With spacious storage capacities and robust data protection, these sleek and compact drives offer peace of mind and <br>versatility. Stay organized and connected, no matter where life takes you. Shop now to find the ideal external HDD for your <br>mobile storage needs.</p>
         </div><hr>
+
+
+        
+<!--------------------->
+
+<section id="arrival" class="py-5 bg-light" style="padding: 40px 0; background-color: #f8f9fa;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto;">
+    <h3 class="text-center mb-5" style="font-family: Arial, Helvetica, sans-serif; text-align: center; margin-bottom: 3rem;"></h3>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
+  
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (2).jpeg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">BUILD YOUR OWN PC -INTEL ATX BUILD with amazing features</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">Ryzen 5 8500G, 16GB DDR5, Radeon 740, 500GB SSD, AMD Gaming PC</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (4).jpeg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+    
+    </div>
+  </div>
+</section>
 
 
 <!----FOOTER----->

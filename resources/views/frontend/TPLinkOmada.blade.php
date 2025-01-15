@@ -8,11 +8,16 @@
 
 <!----------------------------->
 <br>
-
+	
     <div class="next-text">
-        <h1 style="font-size: 40px;"> <strong>Transceiver Modules</strong></h1> 
-        <p style="font-size: 15px;">Elevate your network performance with our top-of-the-line transceiver modules. Experience seamless data transmission <br>and enhanced connectivity with our versatile range of modules. Explore reliable solutions engineered to meet your <br> networking needs.</p>
+        <h1 style="font-size: 40px;"> <strong>TP-Link Omada</strong></h1> <!--------
+        <p style="font-size: 15px;">Our extensive range of networking products include everything you need to network your home or office. With top-brand <br>ADSL and cable routers, switches and hubs, and high-end enterprise gear you can be sure to find the ideal solution at Direct  <br>Computers. <br> <br>
+
+            Brands stocked include Cisco, HP, Juniper, D-Link, Draytek, ZYXL and many more.
+            <br> <br>
+            Start building your home or office network today.</p>-->
         </div> <hr>
+
 
 
 
@@ -203,7 +208,8 @@
   </div>
 </section>
 
-       
+
+        
 <!----FOOTER----->
 @include('layout.footer')
 

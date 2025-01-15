@@ -122,6 +122,7 @@ Route::get('/MonitorStands', [App\Http\Controllers\frontend\MonitorStandsControl
 Route::get('/MotherboardBundles', [App\Http\Controllers\frontend\MotherboardBundlesController::class, 'index'])->name('MotherboardBundles');
 Route::get('/motherboards', [App\Http\Controllers\frontend\motherboardsController::class, 'index'])->name('motherboards');
 Route::get('/MouseAndKeyboard', [App\Http\Controllers\frontend\MouseAndKeyboardController::class, 'index'])->name('MouseAndKeyboard');
+Route::get('/MouseAndKeyboardKits', [App\Http\Controllers\frontend\MouseAndKeyboardKitsController::class, 'index'])->name('MouseAndKeyboardKits');
 Route::get('/MousePads', [App\Http\Controllers\frontend\MousePadsController::class, 'index'])->name('MousePads');
 Route::get('/MusicProductionPCs', [App\Http\Controllers\frontend\MusicProductionPCsController::class, 'index'])->name('MusicProductionPCs');
 Route::get('/NetworkAdapterModules', [App\Http\Controllers\frontend\NetworkAdapterModulesController::class, 'index'])->name('NetworkAdapterModules');
@@ -169,12 +170,14 @@ Route::get('/SystemAppDevSupport', [App\Http\Controllers\frontend\SystemAppDevSu
 Route::get('/ThermalPaste', [App\Http\Controllers\frontend\ThermalPasteController::class, 'index'])->name('ThermalPaste');
 Route::get('/ThreeDmodellingpc', [App\Http\Controllers\frontend\ThreeDmodellingpcController::class, 'index'])->name('ThreeDmodellingpc');
 Route::get('/TPLink', [App\Http\Controllers\frontend\TPLinkController::class, 'index'])->name('TPLink');
+Route::get('/TPLinkOmada', [App\Http\Controllers\frontend\TPLinkOmadaController::class, 'index'])->name('TPLinkOmada');
 Route::get('/TradingPCs', [App\Http\Controllers\frontend\TradingPCsController::class, 'index'])->name('TradingPCs');
 Route::get('/TransceiverModules', [App\Http\Controllers\frontend\TransceiverModulesController::class, 'index'])->name('TransceiverModules');
 Route::get('/TwoFiveSsd', [App\Http\Controllers\frontend\TwoFiveSsdController::class, 'index'])->name('TwoFiveSsd');
 Route::get('/Ubiquiti', [App\Http\Controllers\frontend\UbiquitiController::class, 'index'])->name('Ubiquiti');
 Route::get('/UbiquitiAirMAX', [App\Http\Controllers\frontend\UbiquitiAirMAXController::class, 'index'])->name('UbiquitiAirMAX');
 Route::get('/UbiquitiAmpliFi', [App\Http\Controllers\frontend\UbiquitiAmpliFiController::class, 'index'])->name('UbiquitiAmpliFi');
+Route::get('/UbiquitiAccessories', [App\Http\Controllers\frontend\UbiquitiAccessoriesController::class, 'index'])->name('UbiquitiAccessories');
 Route::get('/UbiquitiUniFiRouters', [App\Http\Controllers\frontend\UbiquitiUniFiRoutersController::class, 'index'])->name('UbiquitiUniFiRouters');
 Route::get('/UbiquitiUniFiSwitches', [App\Http\Controllers\frontend\UbiquitiUniFiSwitchesController::class, 'index'])->name('UbiquitiUniFiSwitches');
 Route::get('/UbiquitiUniFiVideo', [App\Http\Controllers\frontend\UbiquitiUniFiVideoController::class, 'index'])->name('UbiquitiUniFiVideo');
@@ -184,6 +187,7 @@ Route::get('/VirusAndMalwareRemoval', [App\Http\Controllers\frontend\VirusAndMal
 Route::get('/WesternDigital', [App\Http\Controllers\frontend\WesternDigitalController::class, 'index'])->name('WesternDigital');
 Route::get('/WirelessAccess', [App\Http\Controllers\frontend\WirelessAccessController::class, 'index'])->name('WirelessAccess');
 Route::get('/WorkstationPCs', [App\Http\Controllers\frontend\WorkstationPCsController::class, 'index'])->name('WorkstationPCs');
+Route::get('/Webcams', [App\Http\Controllers\frontend\WebcamsController::class, 'index'])->name('Webcams');
 
 
 

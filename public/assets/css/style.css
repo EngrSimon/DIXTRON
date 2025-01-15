@@ -1,0 +1,333 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.body
+{
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+/*****************************************/
+
+
+
+
+/* Promo Section */
+.promo-section {
+    background-color: #2103e3; 
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+  }
+  
+  .promo-text {
+    font-size: 17px;
+    font-weight: bold;
+  }
+  
+  .promo-button {
+    background-color: #eb0905; 
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 50px;
+  }
+  
+  .promo-button:hover {
+    background-color: #c62828; 
+  }
+
+
+/****Next day product *******/
+
+.box-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-top: -50px;
+  }
+    
+  .box-container .box {
+    width: 150px;
+    height: 100px;
+    background-color: #ff0000;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 1.2em;
+  }
+
+  .box-container a{
+    color: #ffffff;
+  }
+
+  .box-container .box:hover{
+    transform: scale(1.1); 
+  }
+
+  
+  body {
+    font-family: Arial, sans-serif;
+}
+
+
+/****footer ******/
+
+
+#footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Top Red Banner */
+.top-banner {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ff0015;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+
+.top-banner .banner-item {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.top-banner .banner-item p {
+    margin: 0;
+    font-size: 16px;
+}
+
+.top-banner .banner-item span {
+    font-size: 14px;
+}
+
+/* Main Footer Content */
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 10%;
+}
+
+.footer-section {
+    flex: 1;
+    margin: 0 20px;
+    margin-right: 50px;
+}
+
+
+
+.footer-section h5 {
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-section ul li a:hover {
+    color: #f60a0a;
+}
+
+/* Social Icons */
+.social-icons {
+    margin: 20px 0;
+}
+
+.social-icons a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+.social-icons a:hover {
+    color: #f60a0a;
+}
+
+/* Country and Language Selectors */
+.country-language select {
+    margin-right: 10px;
+    padding: 10px;
+    background-color: #000;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+/* Country and Language Selectors */
+.country-language {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.country-language select {
+    padding: 10px;
+    background-color: #000; 
+    border: 1px solid #fff; 
+    color: #fff; 
+    border-radius: 5px;
+    font-size: 14px;
+    appearance: none; 
+    cursor: pointer;
+}
+
+.country-language select:hover {
+    background-color: #333;
+}
+
+
+.country-select {
+    width: 180px; 
+}
+
+.language-select {
+    width: 100px; 
+}
+
+
+.country-language select::after {
+    content: '\25BC'; 
+    position: absolute;
+    right: 10px;
+    pointer-events: none; 
+}
+
+
+/* Payment Methods */
+.payment-methods img {
+    width: 40px;
+    margin: 10px 5px;
+}
+
+/* Newsletter Form */
+.footer-section form {
+    display: flex;
+    margin-top: 10px;
+}
+
+.footer-section form input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+}
+
+.footer-section form button {
+    padding: 10px;
+    background-color: #f60a0a;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    color: #fff;
+    cursor: pointer;
+}
+
+.footer-section form button:hover {
+    background-color: #ff0015;
+}
+
+/* Footer Bottom */
+#footer_bottom {
+    text-align: center;
+    background-color: #26292d;
+    padding: 10px;
+    font-size: 12px;
+}
+
+#footer_bottom ul {
+    list-style: none;
+    padding: 0;
+}
+
+#footer_bottom ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+#footer_bottom ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#footer_bottom ul li a:hover {
+    color: #f60a0a;
+}
+
+/* Media Queries */
+@media (max-width: 1024px) {
+    .footer-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-section {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .top-banner {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .footer-section ul li {
+        margin-bottom: 8px;
+    }
+
+    .footer-section form input,
+    .footer-section form button {
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .footer-content {
+        padding: 20px;
+    }
+
+    .social-icons a {
+        margin: 0 5px;
+        font-size: 16px;
+    }
+
+    .payment-methods img {
+        width: 30px;
+    }
+}
+
+ 

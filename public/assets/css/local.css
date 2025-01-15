@@ -1,0 +1,809 @@
+
+ /************** Local IT Service *******************/
+ 
+ .hero-section {
+    position: relative;
+    background-image: url('assets/Local\ IT\ Support\ Services\ _\ Dronfield\ _\ Upgrades_Repairs\ _\ Anti-Virus\ _\ Direct\ Computers/technician-repairing-computer-process-replacing-components-motherboard-min.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 450px; /* Adjust height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Dark overlay with opacity */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .hero-content {
+    color: white;
+    text-align: center;
+    max-width: 800px; /* Adjust for text width */
+    padding: 20px;
+  }
+  
+  .hero-content h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .hero-content p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    color: #f0f0f0;
+  }
+  
+  .hero-btn {
+    display: inline-block;
+    padding: 14px 28px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .hero-btn:hover {
+    background-color: #f0f0f0;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .hero-section {
+        height: auto; /* Adjust height for smaller screens */
+        padding: 40px 20px;
+    }
+  
+    .hero-content h1 {
+        font-size: 28px;
+    }
+  
+    .hero-content p {
+        font-size: 16px;
+    }
+  }
+  
+  /*****************************************/
+  #unique-id {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 80px;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    max-width: 1600px; 
+    width: 100%; 
+    margin: 0 auto;
+  }
+  #unique-id h2{
+    text-align: left;
+  }
+
+  #unique-id p{
+    text-align: left;
+  }
+  
+  
+  .image img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+  }
+  
+  .content {
+    margin-left: 20px;
+    max-width: 600px;
+    margin-left: 60px; 
+  }
+  
+  .content h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding-right: 200px;
+  }
+  
+  .content p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+  .btn:hover {
+    background-color: #e60000;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        text-align: center;
+    }
+  
+    .content {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+  
+    .image img {
+        max-width: 100%;
+    }
+  }
+  /***************************************************/
+  .upgrade-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #000; /* Black background */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    color: white;
+    max-width: 1600px; /* Same width as previous sections */
+    margin: 0 auto; /* Centering the container */
+  }
+  
+  .upgrade-image img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+    margin-left: 150px;
+  }
+  
+  .upgrade-content {
+    margin-left: 20px;
+    max-width: 600px;
+    margin-right: 140px; 
+  }
+  
+  .upgrade-content h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding-right: 190px;
+  }
+  
+  .upgrade-content p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  .upgrade-btn {
+    display: inline-block;
+    padding: 14px 28px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .upgrade-btn:hover {
+    background-color: darkred;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .upgrade-container {
+        flex-direction: column;
+        text-align: center;
+    }
+  
+    .upgrade-content {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+  
+    .upgrade-content h2 {
+        font-size: 24px;
+    }
+  
+    .upgrade-content p {
+        font-size: 14px;
+    }
+  }
+  
+  /*******form********/
+  
+  
+  .contact-form-container {
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    width: 800px;
+    max-width: 100%;
+    margin-left: 370px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  
+  .contact-form-container h4 {
+    margin-top: 0;
+  }
+  
+  .contact-form-container p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 8px;
+  }
+  
+  input, select, textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"] {
+    background-color: #ffffff;
+    color: #fff;
+  }
+  
+  select {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  textarea {
+    background-color: #ffffff;
+    color: #fff;
+    resize: none;
+  }
+  
+  .contact-form-container button {
+    background-color: red;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #c0392b;
+  }
+
+  .text-card{
+    width: 100%;
+    margin-left: 70px;
+    margin-top: 70px;
+  }
+
+  .text-card li{
+    margin-left: 30px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .contact-form-container {
+      width: 100%;
+      margin-left: 0;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      padding: 10px;
+    }
+    
+    .contact-form-container p {
+      font-size: 12px;
+    }
+  
+    .text-card {
+      margin-left: 0;
+      margin-top: 20px;
+    }
+  
+    .text-card li {
+      margin-left: 15px;
+    }
+  
+    input, select, textarea {
+      font-size: 12px;
+    }
+  
+    .contact-form-container button {
+      font-size: 12px;
+    }
+  }
+/*******Form Ends********/
+  
+
+  
+  #repairs{
+    position: relative;
+    background-image: url('assets/Local IT Support Services _ Dronfield _ Upgrades_Repairs _ Anti-Virus _ Direct Computers/repairs.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 450px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+  #Upgrades{
+  position: relative;
+  background-image: url('assets/Local IT Support Services _ Dronfield _ Upgrades_Repairs _ Anti-Virus _ Direct Computers/computer-upgrades.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#setup{
+  position: relative;
+  background-image: url('assets/Local IT Support Services _ Dronfield _ Upgrades_Repairs _ Anti-Virus _ Direct Computers/setup.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Virus{
+  position: relative;
+  background-image: url('assets/Local IT Support Services _ Dronfield _ Upgrades_Repairs _ Anti-Virus _ Direct Computers/malware.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Backup{
+  position: relative;
+  background-image: url('assets/Local IT Support Services _ Dronfield _ Upgrades_Repairs _ Anti-Virus _ Direct Computers/backup.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Recovery{
+  position: relative;
+  background-image: url('assets/Local IT Support Services _ Dronfield _ Upgrades_Repairs _ Anti-Virus _ Direct Computers/data-rec.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Destruction{
+  position: relative;
+  background-image: url('assets/Local IT Support Services _ Dronfield _ Upgrades_Repairs _ Anti-Virus _ Direct Computers/data-desctruction.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*****Business*******/
+
+#Business{
+  position: relative;
+  background-image: url('assets/Business _ Public Sector IT Support Services _ Direct Computers/3d-rendering-dark-modern-server-room-data-center-storage-center-min\ \(1\).jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.business-text{
+text-align: center;
+margin-bottom: 70px;
+}
+
+#IT-id{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #3465d2;
+    padding: 80px;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    max-width: 1600px; 
+    width: 100%; 
+    margin: 0 auto;
+}
+
+#IT-id h2{
+  margin-right: 130px;
+  color: #fff;
+  text-align: left;
+}
+
+#IT-id p{
+  color: #fff;
+  text-align: left;
+}
+
+
+/* Container for the carousel In Business & Public Sector */
+
+.Business-caption{
+  text-align: center;
+  font-size: 24px;
+  padding: 20px;
+}
+
+.client-container {
+  position: relative;
+  width: 100%;
+  max-width: 1500px;
+  margin: 0 auto;
+  overflow: hidden;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Carousel inner container for sliding effect */
+.carousel {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Each card in the carousel */
+.client-card {
+  background-color: #007bff;
+  color: white;
+  width: 30%;
+  flex-shrink: 0;
+  margin-right: 20px;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Sheffield specific color */
+.client-sheffield { background-color: #005eb8; }
+
+/* Leeds specific color */
+.client-leeds { background-color: #0066a5; }
+
+/* Harrogate specific color */
+.client-harrogate { background-color: #30336b; }
+
+/* Additional card styles */
+.client-additional1 { background-color: #00aaff; }
+.client-additional2 { background-color: #55c57a; }
+.client-additional3 { background-color: #ff6f61; }
+
+/* Logo container */
+.client-logo {
+  margin-bottom: 20px;
+}
+
+/*images fit the card width */
+.client-logo img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: block;
+  object-fit: contain;
+}
+
+/* Title of the card */
+.client-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+/* Navigation Buttons */
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgb(255, 0, 0);
+  color: white;
+  border: none;
+  font-size: 24px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.carousel-btn.prev {
+  left: 10px;
+  margin-left: 1447px;
+  margin-top: 20px;
+}
+
+
+.carousel-btn.next {
+  right: 10px;
+}
+
+.client-container p{
+  color: #fff;
+  text-align: left;
+  margin-bottom: 30px;
+  justify-content: center;
+}
+
+.client-container h2{
+  text-align: left;
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .carousel {
+      flex-direction: column;
+  }
+
+  .client-card {
+      width: 100%;
+      margin-bottom: 20px;
+  }
+  .carousel-btn{
+    display: none;
+  }
+}
+
+  #Procurement{
+  position: relative;
+  background-image: url('assets/Business _ Public Sector IT Support Services _ Direct Computers/procurement.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#managedIT{
+  position: relative;
+  background-image: url('assets/Business _ Public Sector IT Support Services _ Direct Computers/it-support.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+#cloud{
+  position: relative;
+  background-image: url('assets/Business _ Public Sector IT Support Services _ Direct Computers/Cloud-solutions.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Microsoft {
+  position: relative;
+  background-image: url('assets/Business _ Public Sector IT Support Services _ Direct Computers/microsoft.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Cyber {
+  position: relative;
+  background-image: url('assets/Business _ Public Sector IT Support Services _ Direct Computers/cybersecurity.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Data-service{
+  position: relative;
+  background-image: url('assets/Business _ Public Sector IT Support Services _ Direct Computers/data-desctruction.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#App{
+  position: relative;
+  background-image: url('assets/Business _ Public Sector IT Support Services _ Direct Computers/data-technology-blue-background-with-hacker-remixed-media_1_1.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Application{
+  display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #3465d2;
+    padding: 80px;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    max-width: 1600px; 
+    width: 100%;
+}
+
+.App-content{
+  color: #fff;
+}
+
+#Application .App-content li {
+  color: white; /* Change the text color to white */
+}
+
+.achievements-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.content2 {
+  width: 50%;
+  margin-right: 100PX;
+}
+
+.content2 h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.content2 ul {
+  list-style-type: none;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.content2 ul li::before {
+  content: "● ";
+  color: black;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.image {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+}
+
+.image img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+h2 {
+  text-align: center;
+  margin: 30px 0;
+  font-size: 28px;
+}
+
+.services {
+  padding: 0 20px;
+}
+
+.service-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.service {
+  background-color: #E5F1FF; /* Adjust as per design */
+  padding: 15px;
+  text-align: center;
+  flex-basis: 30%;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.service img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.service h3 {
+  background-color: #1F3E8B; /* Adjust as per design */
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.service ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.service ul li {
+  margin: 10px 0;
+}
+
+/* Media Query for responsive design */
+@media (max-width: 768px) {
+  .service-container {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .service {
+      flex-basis: 100%;
+      margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  h2 {
+      font-size: 24px;
+  }
+
+  .service h3 {
+      font-size: 16px;
+  }
+
+  .service ul li {
+      font-size: 14px;
+  }
+}

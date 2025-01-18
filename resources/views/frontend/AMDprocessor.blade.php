@@ -25,15 +25,15 @@
   
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg" class="card-img-top" alt="#">
+          <img src="assets/AMD CPUs _ Ryzen Processors for Gaming_ Streaming_ Design _ Direct Computers/1 (1).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AMD</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">AMD Ryzen 4300G, 4 Core AM4 Processor, 8 Threads, 3.8GHz, Boost (4.0GHz)</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -52,7 +52,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/AMD CPUs _ Ryzen Processors for Gaming_ Streaming_ Design _ Direct Computers/1 (1).jpg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -69,15 +69,15 @@
       
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (2).jpeg" class="card-img-top" alt="#">
+          <img src="assets/AMD CPUs _ Ryzen Processors for Gaming_ Streaming_ Design _ Direct Computers/1 (2).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AMD</a>
             </h4>
-            <p style="font-size: 14px;">BUILD YOUR OWN PC -INTEL ATX BUILD with amazing features</p>
+            <p style="font-size: 14px;">AMD Ryzen 5 4500 3.6GHz 6 Core AM4 Processor, 12 Threads, <br> 4.1GHz Boost</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -104,7 +104,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/AMD CPUs _ Ryzen Processors for Gaming_ Streaming_ Design _ Direct Computers/1 (2).jpg">
 				Add to Cart
 			</button>
           </div>
@@ -113,15 +113,15 @@
 
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
+          <img src="assets/AMD CPUs _ Ryzen Processors for Gaming_ Streaming_ Design _ Direct Computers/1 (3).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AMD</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 8500G, 16GB DDR5, Radeon 740, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">AM4, 3.6GHz (4.2 Turbo), 6-Core, 65W, 19MB Cache, 7nm, 5th Gen, No Graphics</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -148,7 +148,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/AMD CPUs _ Ryzen Processors for Gaming_ Streaming_ Design _ Direct Computers/1 (3).jpg">
 				Add to Cart
 			</button>
           </div>
@@ -157,15 +157,15 @@
 
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (4).jpeg" class="card-img-top" alt="#">
+          <img src="assets/AMD CPUs _ Ryzen Processors for Gaming_ Streaming_ Design _ Direct Computers/1 (4).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AMD</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">AMD A6-3670K 2.70GHz (Socket FM1) <br>APU Processor <br>(AD3670WNGXBOX)</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -192,7 +192,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/AMD CPUs _ Ryzen Processors for Gaming_ Streaming_ Design _ Direct Computers/1 (4).jpg">
 				Add to Cart
 			</button>
           </div>

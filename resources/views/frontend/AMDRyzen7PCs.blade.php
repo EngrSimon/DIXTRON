@@ -26,138 +26,6 @@
   
       <div class="col">
         <div class="card h-100">
-          <img src="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (1).jpg" class="card-img-top" alt="#">
-          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
-			<!--
-            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
-			-->
-            <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
-            </h4>
-            <p style="font-size: 14px;">Ryzen 7 5800X, 16GB DDR4, RTX 4060 Ti 8GB, 1TB SSD, 32" 165Hz Monitor Gaming PC Bundle</p>
-            <div class="mb-2">
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-            </div>
-            <p style="margin-bottom: 8px;">
-              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
-              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
-            </p>
-            <button class="btn btn-primary btn-sm view-details" 
-                    data-bs-toggle="modal" 
-                    data-bs-target="#productModal" 
-                    data-id="#" 
-                    data-name="#" 
-                    data-description="#" 
-                    data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
-              View More
-            </button>
-			<button class="btn btn-primary add-to-cart" 
-				style="color: #fff; background-color:#eb0905; border-color:white"
-				data-id="#" 
-				data-name="#" 
-				data-price="#" 
-				data-image="#">
-				Add to Cart
-			</button>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col">
-        <div class="card h-100">
-          <img src="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (2).jpg" class="card-img-top" alt="#">
-          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
-			<!--
-            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
-			-->
-            <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
-            </h4>
-            <p style="font-size: 14px;">Ryzen 7 5700G - Nvidia GTX 1650 4GB - 32GB RAM 3200MHz - 500GB M.2 + 2TB 2.5" SSD - WiFi</p>
-            <div class="mb-2">
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-            </div>
-            <p style="margin-bottom: 8px;">
-              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
-              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
-            </p>
-            <button class="btn btn-primary btn-sm view-details" 
-                    data-bs-toggle="modal" 
-                    data-bs-target="#productModal" 
-                    data-id="#" 
-                    data-name="#" 
-                    data-description="#" 
-                    data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
-              View More
-            </button>
-			<button class="btn btn-primary add-to-cart" 
-				style="color: #fff; background-color:#eb0905; border-color:white"
-				data-id="#" 
-				data-name="#" 
-				data-price="#" 
-				data-image="#">
-				Add to Cart
-			</button>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (3).jpg" class="card-img-top" alt="#">
-          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
-			<!--
-            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
-			-->
-            <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
-            </h4>
-            <p style="font-size: 14px;">Business AMD Ryzen™ 7 Zen 3 System <br> <br> <br></p>
-            <div class="mb-2">
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-            </div>
-            <p style="margin-bottom: 8px;">
-              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
-              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
-            </p>
-            <button class="btn btn-primary btn-sm view-details" 
-                    data-bs-toggle="modal" 
-                    data-bs-target="#productModal" 
-                    data-id="#" 
-                    data-name="#" 
-                    data-description="#" 
-                    data-price="#" 
-                    data-image="#">
-              View More
-            </button>
-			<button class="btn btn-primary add-to-cart" 
-				style="color: #fff; background-color:#eb0905; border-color:white"
-				data-id="#" 
-				data-name="#" 
-				data-price="#" 
-				data-image="assets/AMD Ryzen 5 PCs _ Direct Computers/1 (4).jpg">
-				Add to Cart
-			</button>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
           <img src="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (4).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
@@ -185,7 +53,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (4).jpg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -193,7 +61,139 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="#">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (5).jpg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">Valor - Ryzen 7 7700X, 16GB DDR5, RTX 4070 Super 12GB, 1TB SSD, AMD Gaming PC</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (5).jpg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="#">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (6).jpg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">Ryzen 7 5800X - RTX 3080 10GB - 32GB RAM 3600MHz - 1TB M.2 Gen4 - WiFi</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="#">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (6).jpg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (1).jpg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">Ryzen 7 5800X, 16GB DDR4, RTX 4060 Ti 8GB, 1TB SSD, 32" 165Hz Monitor Gaming PC Bundle</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (1).jpg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/AMD Ryzen 7 PCs _ Direct Computers/1 (1).jpg">
 				Add to Cart
 			</button>
           </div>

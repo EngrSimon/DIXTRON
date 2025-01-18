@@ -24,15 +24,15 @@
   
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Apple Laptops _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">APPLE</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">APPLE MacBook Air 15.3" (2024) - M3, 512 GB SSD, Space Grey</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -51,7 +51,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Apple Laptops _ Direct Computers/1 (1).jpeg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -59,7 +59,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Apple Laptops _ Direct Computers/1 (1).jpeg">
 				Add to Cart
 			</button>
           </div>
@@ -68,15 +68,15 @@
       
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (2).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Apple Laptops _ Direct Computers/1 (2).jpeg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">APPLE</a>
             </h4>
-            <p style="font-size: 14px;">BUILD YOUR OWN PC -INTEL ATX BUILD with amazing features</p>
+            <p style="font-size: 14px;">APPLE MacBook Air 15.3" (2024) - M3, 512 GB SSD, Space Grey</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -95,7 +95,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Apple Laptops _ Direct Computers/1 (2).jpeg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -103,7 +103,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Apple Laptops _ Direct Computers/1 (2).jpeg">
 				Add to Cart
 			</button>
           </div>
@@ -112,15 +112,15 @@
 
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Apple Laptops _ Direct Computers/1 (3).jpeg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">APPLE</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 8500G, 16GB DDR5, Radeon 740, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">APPLE MacBook Air 15.3" (2024) - M3, 256 GB SSD, Space Grey</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -139,7 +139,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Apple Laptops _ Direct Computers/1 (3).jpeg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -147,7 +147,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Apple Laptops _ Direct Computers/1 (3).jpeg">
 				Add to Cart
 			</button>
           </div>
@@ -156,15 +156,15 @@
 
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (4).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Apple Laptops _ Direct Computers/1 (4).jpeg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">APPLE</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">APPLE MacBook Air 15.3" (2024) - M3, 512 GB SSD, Space Grey</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -183,7 +183,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Apple Laptops _ Direct Computers/1 (4).jpeg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -191,7 +191,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Apple Laptops _ Direct Computers/1 (4).jpeg">
 				Add to Cart
 			</button>
           </div>

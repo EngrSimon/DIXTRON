@@ -59,15 +59,15 @@
   
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg" class="card-img-top" alt="#">
+          <img src="assets/AMD _ Direct Computers/1 (1).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AMD</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">AMD Ryzen 9 7950X 4.7GHz 16 Core AM5 Processor, 32 Threads, 5.7GHz Boost, Radeon <br>Graphics</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -103,15 +103,15 @@
       
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (2).jpeg" class="card-img-top" alt="#">
+          <img src="assets/AMD _ Direct Computers/1 (2).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AMD</a>
             </h4>
-            <p style="font-size: 14px;">BUILD YOUR OWN PC -INTEL ATX BUILD with amazing features</p>
+            <p style="font-size: 14px;">AMD Ryzen 7 9700X CPU, AM5, 3.8GHz (5.5 Turbo), 8-Core, 65W, 40MB Cache, 4nm, 9th Gen, Radeon Graphics, NO HEATSINK/FAN</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -147,15 +147,15 @@
 
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
+          <img src="assets/AMD _ Direct Computers/1 (6).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AMD</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 8500G, 16GB DDR5, Radeon 740, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">AMD Ryzen 7 5800XT, 8 Core AM4 Processor, 16 Threads, 3.8Ghz up to 4.8Ghz Turbo, 32MB Cache, <br>105W</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -191,15 +191,15 @@
 
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (4).jpeg" class="card-img-top" alt="#">
+          <img src="assets/AMD _ Direct Computers/1 (5).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AMD</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">AMD Ryzen 5 9600X CPU, AM5, 3.9GHz (5.4 Turbo), 6-Core, 65W, 38MB Cache, 4nm, 9th Gen, Radeon Graphics, NO HEATSINK/FAN</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>

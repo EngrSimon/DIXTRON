@@ -60,15 +60,15 @@
   
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Architecture PCs _ Direct Computers/1 (2).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">ASUS</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">Intel® Core™ i7-11700K - Nvidia RTX 3070 8GB - 32GB RAM 3200MHz - 500GB M.2 + 1TB</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -87,7 +87,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Architecture PCs _ Direct Computers/1 (1).jpg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -95,7 +95,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Architecture PCs _ Direct Computers/1 (1).jpg">
 				Add to Cart
 			</button>
           </div>
@@ -110,9 +110,9 @@
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">ASUS</a>
             </h4>
-            <p style="font-size: 14px;">BUILD YOUR OWN PC -INTEL ATX BUILD with amazing features</p>
+            <p style="font-size: 14px;">Intel® Core™ i9-12900K - Nvidia RTX 3090 24GB - 64GB RAM 3200MHz - 2TB M.2 Gen4 - WiFi</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>

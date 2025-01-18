@@ -32,15 +32,15 @@
   
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Antivirus Software _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AVAST</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">Avast CloudCare Unmanged 1 Year <br> <br> <br> <br><br> <br></p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -59,7 +59,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Antivirus Software _ Direct Computers/1 (1).jpeg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -67,7 +67,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Antivirus Software _ Direct Computers/1 (1).jpeg">
 				Add to Cart
 			</button>
           </div>
@@ -76,15 +76,15 @@
       
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (2).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Antivirus Software _ Direct Computers/1 (1).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">NORTON</a>
             </h4>
-            <p style="font-size: 14px;">BUILD YOUR OWN PC -INTEL ATX BUILD with amazing features</p>
+            <p style="font-size: 14px;">Norton 360 Deluxe 2022, Antivirus Software for 5 Devices, 1-year Subscription, Includes Secure VPN, Password Manager and 50GB of Cloud Storage, PC/Mac/iOS/Android, Activation Code by email - ESD</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -103,7 +103,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Antivirus Software _ Direct Computers/1 (1).jpg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -111,7 +111,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Antivirus Software _ Direct Computers/1 (1).jpg">
 				Add to Cart
 			</button>
           </div>
@@ -120,15 +120,15 @@
 
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Antivirus Software _ Direct Computers/1 (2).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">NORTON</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 8500G, 16GB DDR5, Radeon 740, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;"> Norton 360 Deluxe 2022, Antivirus Software for 5 Devices, 1-year Subscription, Includes Secure VPN, Password Manager and 50GB of Cloud Storage, PC/Mac/iOS/Android, Retail Boxed</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -147,7 +147,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Antivirus Software _ Direct Computers/1 (2).jpg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -155,7 +155,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Antivirus Software _ Direct Computers/1 (2).jpg">
 				Add to Cart
 			</button>
           </div>
@@ -164,15 +164,15 @@
 
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (4).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Antivirus Software _ Direct Computers/1 (3).jpg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">NORTON</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">Norton 360 Premium 2022, Antivirus Software for 10 Devices, 1-year Subscription, Includes Secure VPN, Password Manager and 75 GB cloud storage space, PC/Mac/iOS/Android, Activation Code by email - ESD</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -191,7 +191,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Antivirus Software _ Direct Computers/1 (3).jpg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -199,7 +199,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Antivirus Software _ Direct Computers/1 (3).jpg">
 				Add to Cart
 			</button>
           </div>

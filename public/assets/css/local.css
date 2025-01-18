@@ -121,20 +121,6 @@
     margin-bottom: 20px;
   }
   
-  .btn {
-    display: inline-block;
-    padding: 12px 24px;
-    background-color: red;
-    color: white;
-    text-decoration: none;
-    border-radius: 4px;
-    font-weight: bold;
-  }
-  
-  .btn:hover {
-    background-color: #e60000;
-  }
-  
   @media screen and (max-width: 768px) {
     .container {
         flex-direction: column;
@@ -227,7 +213,8 @@
   }
   
   /*******form********/
-  
+
+  /************
   
   .contact-form-container {
     background-color: #000000;
@@ -344,6 +331,9 @@
       font-size: 12px;
     }
   }
+
+  *************/
+
 /*******Form Ends********/
   
 

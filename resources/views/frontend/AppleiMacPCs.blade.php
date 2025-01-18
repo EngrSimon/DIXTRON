@@ -15,61 +15,108 @@
 <p style="font-size: 15px;">Apple desktops are beautifully designed, offering sleek lines and an iconic minimal aesthetic. The simplicity of the design of <br>Apple iMacs is not matched by their components. The power and performance that the newest iMacs provide are <br>unparalleled.</p>
 </div> <hr>
 
-<br>
+<!--------------------->
 
-<!--------->
-         <div class="center_product_1r3 tab-content">
-          
-                        <div class="click clearfix">
-                          <div class="arriv_2 mgt clearfix">
-                           <div class="col-sm-4">
-                            <div class="arriv_2m clearfix">
-                             <div class="arriv_2m1 clearfix">
-                               <a href="product_detail.html"><img src="assets/Apple iMac PCs _ Direct Computers/1 (1).jpg" alt="abc" class="iw"></a>						  </div>
-                             <div class="arriv_2m2 clearfix">
-                              <h5 class="text-center mgt">SALE</h5>
-                             </div>
-                             <div class="arriv_2m3 clearfix">
-                              <h4 class="bold mgt font_24 text-center"><a class="col_1" href="product_detail.html">Apple Computers</a></h4>
-                              <p>APPLE iMac 4.5K 24" (2023) - M3, 256 GB SSD, Green</p>
-                              <span class="span_1">
-                               <i class="fa fa-star"></i>
-                               <i class="fa fa-star"></i>
-                               <i class="fa fa-star"></i>
-                               <i class="fa fa-star"></i>
-                               <i class="fa fa-star"></i>						   </span>
-                              <h5>
-                              <span style="color: #d01f1f;" class="span_2">£1,824.99</span>
-                              <span class="span_3 col_2"> £1,724</span> 
-                              <span class="span_4 pull-right col_2">Limited Offer!</span>						   </h5>
-                             </div>
-                            </div>
-                           </div>
+<section id="arrival" class="py-5 bg-light" style="padding: 40px 0; background-color: #f8f9fa;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto;">
+    <h3 class="text-center mb-5" style="font-family: Arial, Helvetica, sans-serif; text-align: center; margin-bottom: 3rem;"></h3>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
+  
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Apple iMac PCs _ Direct Computers/1 (1).jpg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">APPLE</a>
+            </h4>
+            <p style="font-size: 14px;">APPLE iMac 4.5K 24" (2023) - M3, 256 GB SSD, Green</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Apple iMac PCs _ Direct Computers/1 (1).jpg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="aassets/Apple iMac PCs _ Direct Computers/1 (1).jpg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Apple iMac PCs _ Direct Computers/1 (2).jpg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+            </h4>
+            <p style="font-size: 14px;">APPLE iMac 5K 27" (2020) - Intel® Core™ i5, 512 GB SSD</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Apple iMac PCs _ Direct Computers/1 (2).jpg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Apple iMac PCs _ Direct Computers/1 (2).jpg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+                           
 
-                           <div class="col-sm-4">
-                            <div class="arriv_2m clearfix">
-                             <div class="arriv_2m1 clearfix">
-                               <a href="product_detail.html"><img src="assets/Apple iMac PCs _ Direct Computers/1 (2).jpg" alt="abc" class="iw"></a>						  </div>
-                             <div class="arriv_2m2 clearfix">
-                              <h5 class="text-center mgt">SALE</h5>
-                             </div>
 
-                             <div class="arriv_2m3 clearfix">
-                               <h4 class="bold mgt font_24 text-center"><a class="col_1" href="product_detail.html">Apple Computers</a></h4>
-                              <p>APPLE iMac 5K 27" (2020) - Intel® Core™ i5, 512 GB SSD</p>
-                              <span class="span_1">
-                               <i class="fa fa-star"></i>
-                               <i class="fa fa-star"></i>
-                               <i class="fa fa-star"></i>
-                               <i class="fa fa-star"></i>
-                               <i class="fa fa-star"></i>						   </span>
-                              <h5>
-                              <span style="color: #d01f1f;" class="span_2">£1,099.99</span>
-                              <span class="span_3 col_2"> £999.99</span> 
-                              <span class="span_4 pull-right col_2">Limited Offer!</span>						   </h5>
-                             </div>
-                            </div>
-                           </div>
+
+
 <!----FOOTER----->
 @include('layout.footer')
 

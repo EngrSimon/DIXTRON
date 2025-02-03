@@ -24,15 +24,15 @@
   
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Antivirus Software _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AVAST</a>
             </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
+            <p style="font-size: 14px;">Avast CloudCare Unmanged 1 Year</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -51,7 +51,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="aassets/Antivirus Software _ Direct Computers/1 (1).jpeg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -59,7 +59,7 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Antivirus Software _ Direct Computers/1 (1).jpeg">
 				Add to Cart
 			</button>
           </div>
@@ -68,15 +68,15 @@
       
       <div class="col">
         <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (2).jpeg" class="card-img-top" alt="#">
+          <img src="assets/Antivirus Software _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
           <div class="card-body text-center" style="background-color:rgb(253 239 228)">
 			<!--
             <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
 			-->
             <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">AVAST</a>
             </h4>
-            <p style="font-size: 14px;">BUILD YOUR OWN PC -INTEL ATX BUILD with amazing features</p>
+            <p style="font-size: 14px;">Avast CloudCare Managed 1 Year</p>
             <div class="mb-2">
               <i class="fa fa-star text-warning"></i>
               <i class="fa fa-star text-warning"></i>
@@ -95,7 +95,7 @@
                     data-name="#" 
                     data-description="#" 
                     data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+                    data-image="assets/Antivirus Software _ Direct Computers/1 (1).jpeg">
               View More
             </button>
 			<button class="btn btn-primary add-to-cart" 
@@ -103,100 +103,13 @@
 				data-id="#" 
 				data-name="#" 
 				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
+				data-image="assets/Antivirus Software _ Direct Computers/1 (1).jpeg">
 				Add to Cart
 			</button>
           </div>
         </div>
       </div>
 
-      <div class="col">
-        <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (1).jpeg" class="card-img-top" alt="#">
-          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
-			<!--
-            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
-			-->
-            <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
-            </h4>
-            <p style="font-size: 14px;">Ryzen 5 8500G, 16GB DDR5, Radeon 740, 500GB SSD, AMD Gaming PC</p>
-            <div class="mb-2">
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-            </div>
-            <p style="margin-bottom: 8px;">
-              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
-              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
-            </p>
-            <button class="btn btn-primary btn-sm view-details" 
-                    data-bs-toggle="modal" 
-                    data-bs-target="#productModal" 
-                    data-id="#" 
-                    data-name="#" 
-                    data-description="#" 
-                    data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
-              View More
-            </button>
-			<button class="btn btn-primary add-to-cart" 
-				style="color: #fff; background-color:#eb0905; border-color:white"
-				data-id="#" 
-				data-name="#" 
-				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
-				Add to Cart
-			</button>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card h-100">
-          <img src="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (4).jpeg" class="card-img-top" alt="#">
-          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
-			<!--
-            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
-			-->
-            <h4 class="bold" style="margin-bottom: 10px;">
-              <a href="#" class="text-decoration-none" style="color: #eb0905;">Dixtron Computers</a>
-            </h4>
-            <p style="font-size: 14px;">Ryzen 5 5600G, 16GB DDR4, Vega 7 Graphics, 500GB SSD, AMD Gaming PC</p>
-            <div class="mb-2">
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-              <i class="fa fa-star text-warning"></i>
-            </div>
-            <p style="margin-bottom: 8px;">
-              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
-              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
-            </p>
-            <button class="btn btn-primary btn-sm view-details" 
-                    data-bs-toggle="modal" 
-                    data-bs-target="#productModal" 
-                    data-id="#" 
-                    data-name="#" 
-                    data-description="#" 
-                    data-price="#" 
-                    data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
-              View More
-            </button>
-			<button class="btn btn-primary add-to-cart" 
-				style="color: #fff; background-color:#eb0905; border-color:white"
-				data-id="#" 
-				data-name="#" 
-				data-price="#" 
-				data-image="assets/Custom Built Desktop Gaming PCs _ Intel_ AMD _ Nvidia Custom Built PCs _ Direct Computers/1 (6).jpeg">
-				Add to Cart
-			</button>
-          </div>
-        </div>
-      </div>
     
     </div>
   </div>

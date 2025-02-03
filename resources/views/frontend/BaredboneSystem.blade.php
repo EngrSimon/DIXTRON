@@ -7,19 +7,202 @@
 
 
 <!----------------------------->
-
-  <!-----promo section---->
-<div class="promo-section">
-	<div class="promo-text">On-Sale Laptops</div>
-	<a href="laptops.html" class="promo-button">Shop now</a>
-</div>
-
-<!-------->
+<br>
 
 <div class="next-text">
 <h1 style="font-size: 40px;"> <strong>Barebone Systems</strong></h1>
 <p style="font-size: 15px;">Build your ideal computing setup with our barebone systems. Designed for customization and flexibility, our barebone <br>systems provide the foundation for your perfect PC build. Explore our range of barebone kits, featuring motherboards, cases, <br>and power supplies, ready for you to add your choice of CPU, RAM, and storage. Whether you're a DIY enthusiast or a <br>professional builder, unleash your creativity and build the PC of your dreams with our barebone systems.</p>
 </div> <hr>
+
+
+
+
+<!--------------------->
+
+<section id="arrival" class="py-5 bg-light" style="padding: 40px 0; background-color: #f8f9fa;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto;">
+    <h3 class="text-center mb-5" style="font-family: Arial, Helvetica, sans-serif; text-align: center; margin-bottom: 3rem;"></h3>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
+  
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Barebone Systems _ Direct Computers/1 (1).jpg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">ASROCK</a>
+            </h4>
+            <p style="font-size: 14px;">DeskMeet X300 Barebone PC, Mini ITX, AMD AM4 (X300), DDR4 DIMM, 2x SATA, etc</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Barebone Systems _ Direct Computers/1 (1).jpg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Barebone Systems _ Direct Computers/1 (1).jpg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Barebone Systems _ Direct Computers/1 (2).jpg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">SPIRE</a>
+            </h4>
+            <p style="font-size: 14px;">Spire MATX Tower PC, Vida Business Case, i5-12400, 8GB 3200MHz, 512GB SSD, etc</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Barebone Systems _ Direct Computers/1 (2).jpg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Barebone Systems _ Direct Computers/1 (2).jpg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Barebone Systems _ Direct Computers/1 (3).jpg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">GIGABYTE</a>
+            </h4>
+            <p style="font-size: 14px;">APPLE iMac 5K 27" (2020) - Intel® Core™ i5, <br>512 GB SSD</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Barebone Systems _ Direct Computers/1 (3).jpg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Barebone Systems _ Direct Computers/1 (3).jpg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card h-100">
+          <img src="assets/Barebone Systems _ Direct Computers/1 (4).jpg" class="card-img-top" alt="#">
+          <div class="card-body text-center" style="background-color:rgb(253 239 228)">
+			<!--
+            <h5 class="card-title text-uppercase" style="color: #eb0905;">{{ $product->sale_label ?? 'SALE' }}</h5>
+			-->
+            <h4 class="bold" style="margin-bottom: 10px;">
+              <a href="#" class="text-decoration-none" style="color: #eb0905;">SPIRE</a>
+            </h4>
+            <p style="font-size: 14px;">Spire MATX Tower PC, Vida Business Case, Ryzen 5 5600G, 16GB 3200MHz, 512GB SSD</p>
+            <div class="mb-2">
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+              <i class="fa fa-star text-warning"></i>
+            </div>
+            <p style="margin-bottom: 8px;">
+              <span class="price-old" style="text-decoration: line-through; color: #6c757d;">£510.99</span>
+              <span class="price-new" style="color: #28a745; font-weight: bold;">£499.99</span>
+            </p>
+            <button class="btn btn-primary btn-sm view-details" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#productModal" 
+                    data-id="#" 
+                    data-name="#" 
+                    data-description="#" 
+                    data-price="#" 
+                    data-image="assets/Barebone Systems _ Direct Computers/1 (4).jpg">
+              View More
+            </button>
+			<button class="btn btn-primary add-to-cart" 
+				style="color: #fff; background-color:#eb0905; border-color:white"
+				data-id="#" 
+				data-name="#" 
+				data-price="#" 
+				data-image="assets/Barebone Systems _ Direct Computers/1 (4).jpg">
+				Add to Cart
+			</button>
+          </div>
+        </div>
+      </div>
+    
+    </div>
+  </div>
+</section>
 
 
 <!----FOOTER----->
